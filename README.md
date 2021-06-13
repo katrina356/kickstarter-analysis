@@ -18,12 +18,12 @@ To begin the analysis we first transformed and simplified some of the data field
 ### Analysis of Outcomes Based on Launch Date
 This analysis focused on all theater campaigns.  Based on launch date 25% of successful campaigns were launched in May and June.  Failed campaigns were relatively stable over the duration of this study running at an average of 41 per month.  Canceled campaigns were minimal at approximately 3% of all campaigns in the study.
 
-![Outcomes Based on Launch Date](/kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes")
+![Outcomes Based on Launch Date](/Resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes")
 
 ### Analysis of Outcomes Based on Goals
 This analysis focused primarily on plays within the Theater category.  Based on this analysis successful campaigns had goals that fell in the under $5K category or the $35K - $45K category.  However, 76% of successful campaigns had goals less than $5K while only 8% of successful campaigns had goals between the $35K - $45K goal. 
 
-![Outcomes Versus Goals](/kickstarter-analysis/Resources/Outcomes_vs_Goals.png "Outcomes vs Goals")
+![Outcomes Versus Goals](/Resources/Outcomes_vs_Goals.png "Outcomes vs Goals")
 
 ### Challenges and Difficulties Encountered
 1. The data focuses solely on the goal set for funding and the launch date of the campaign.  Other factors may be contributing as to why a campaign succeeds or fails, such as:
