@@ -40,13 +40,13 @@ This analysis focused primarily on plays within the Theater category.  Based on 
 ### Conclusions regarding Outcomes based on Goals
 - A campaign is more likely to succeed if the goal is under $5K
 
-###Limitations to the dataset
+### Limitations to the dataset
 - A majority of the data is from 2014 - 2016 prior years have minimal data points
 - Not enough information.  As mentioned earlier there could be other reasons that the funding succeeded or failed as indicated in the statistics around the goals and pledges of successful and failed campaigns
 
-###Other possible tables and/or graphs that we could create?
+### Other possible tables and/or graphs that we could create?
   * Duration of the Campaign.  Looking at the data set a majority of the campaigns were run in under 30 days
   * Descriptive statics around number of backers and average donation size may be helpful in determining if other factors may play into success or failure.  Successful campaigns on average have more backers and higher average donation size.  We need to look into why more people are donating to successful campaigns, what makes them so different
 
-![Backers and Donation Size](Backers_and_Donation_Size.png)
+
 
